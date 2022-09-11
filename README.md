@@ -9,7 +9,7 @@ Käyttö:
 
 Käyttäjä voi luoda CD-levyn täyttämällä kenttiin tarvitut tiedot.
 
-Käyttäjä voi muokata jo olemassa olevas CD-levyn tietoja muokkauspainikkeesta.
+Käyttäjä voi muokata jo olemassa olevan CD-levyn tietoja muokkauspainikkeesta.
 
 Käyttäjä voi hakea CD-levyn hakukentällä. (Voisi etsiä vuodella, nimellä, artistilla jne. tai ehkä niiden kombinaatiolla)
 
