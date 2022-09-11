@@ -5,6 +5,7 @@ Tarkoituksena on luoda musiikkilistaaja, jonne voi lisätä CD-levyjä.
 Sovelluksella on käyttäjiä, jotka voivat lisätä uusia CD-levyjä sivulle.
 
 Käyttö:
+
 Käyttäjä voi luoda CD-levyn täyttämällä kenttiin tarvitut tiedot.
 
 Käyttäjä voi muokata jo olemassa olevas CD-levyn tietoja muokkauspainikkeesta.
@@ -17,6 +18,7 @@ Käyttäjä voi sisäänkirjauduttuaan lisätä/poistaa omaan kirjastoonsa CD-le
 
 
 Sommittelu:
+
 Alussa pääaukeama jossa näkyy osa CD-levyistä, CD hakukenttä, CD lisäysmahdollisuus ja rekisteröitymis-, kirjautumismahdollisuus.
 
 Kirjautumismahdollisuus ohjaa tunnuksen ja salasanan kyselyyn joka onnistuessa kirjaa sisään ja epäonnistuessa virheilmoitukseen.
