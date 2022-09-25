@@ -1,19 +1,32 @@
 # MusiikkiListaaja
 
 Update Välipalautus 2:
+
 Coded the main structure
+
 -Main page (index) done visually.
+
 -Adding Albums working as intended
+
 -Listing Albums as intended
 
+
 Need to do:
+
 Search (not working)
+
 Register (not working)
+
 Log in/off (not working)
+
 Modify album (haven't started)
+
 Remove Album (changing viewable to False, haven't done)
+
 own list (haven't started)
+
 Security (haven't started)
+
 Structure...
 
 ------------------------------------------------------------------------
