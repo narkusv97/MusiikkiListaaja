@@ -2,6 +2,11 @@
 
 Update Välipalautus 2:
 
+Yritin siirtää sovellusta herokuun mutten olen saanut sitä vielä toimimaan...
+
+Siirsin sovelluksen tänne hetkellisesti listaten myös missä vaiheessa työ on:
+
+
 Coded the main structure
 
 -Main page (index) done visually.
